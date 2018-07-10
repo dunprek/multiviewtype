@@ -1,0 +1,107 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion build_versions.target_sdk
+    defaultConfig {
+        applicationId "don.com.multiviewtype"
+        minSdkVersion build_versions.min_sdk
+        targetSdkVersion build_versions.target_sdk
+        multiDexEnabled true
+
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+
+}
+
+dependencies {
+
+    // Support libraries
+    implementation deps.support.app_compat
+    implementation deps.support.recyclerview
+    implementation deps.support.design
+    implementation deps.support.cardview
+    implementation deps.constraint_layout
+    implementation deps.support.v4
+
+    //retrofit
+    implementation deps.retrofit.runtime
+    implementation deps.retrofit.gson
+    implementation deps.retrofit.rxjava2
+
+    implementation deps.okhttp.logging
+    implementation deps.gson.runtime
+
+    //Reactive
+    implementation 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    implementation 'io.reactivex.rxjava2:rxkotlin:2.1.0'
+
+    //Facebook
+    implementation 'com.facebook.android:facebook-android-sdk:4.32.0'
+
+    //picasso
+    implementation deps.picasso.runtime
+
+
+
+
+    implementation 'pub.devrel:easypermissions:1.1.1'
+
+
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
+    androidTestImplementation deps.atsl.runner
+    androidTestImplementation deps.atsl.rules
+
+    // Espresso UI Testing
+    androidTestImplementation deps.espresso.core
+    androidTestImplementation deps.espresso.contrib
+    androidTestImplementation deps.espresso.intents
+
+    // Room
+
+    // Architecture components
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+
+
+
+    implementation 'com.alexvasilkov:gesture-views:2.2.0'
+
+    implementation 'me.relex:circleindicator:1.2.2@aar'
+
+    compile('cn.trinea.android.view.autoscrollviewpager:android-auto-scroll-view-pager:1.1.2') {
+        exclude module: 'support-v4'
+    }
+
+    compile 'com.github.warkiz.widget:indicatorseekbar:1.2.9'
+
+    compile 'com.github.barteksc:android-pdf-viewer:2.8.2'
+
+
+    compile 'io.sentry:sentry-android:1.7.5'
+
+
+    implementation 'de.hdodenhof:circleimageview:2.2.0'
+    implementation 'com.android.support:multidex:1.0.3'
+
+
+}
+repositories {
+    mavenCentral()
+}
+
+
+
+

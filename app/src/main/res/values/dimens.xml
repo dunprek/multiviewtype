@@ -1,0 +1,49 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="item_horizontal_margin">8dp</dimen>
+    <dimen name="activity_margin_half">8dp</dimen>
+    <dimen name="activity_horizontal_margin_twice">32dp</dimen>
+    <dimen name="activity_horizontal_margin_half">8dp</dimen>
+    <dimen name="activity_horizontal_margin_quarter">4dp</dimen>
+
+
+    <dimen name="statusbar_size">8dp</dimen>
+    <dimen name="icon_size">32dp</dimen>
+
+
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_size_8dp">8dp</dimen>
+
+
+    <!--ELEVATION-->
+    <dimen name="elevation_size_8dp">8dp</dimen>
+
+    <dimen name="margin_0dp">0dp</dimen>
+    <dimen name="margin_5dp">5dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_size_5dp">5dp</dimen>
+    <dimen name="margin_size_36dp">36dp</dimen>
+    <dimen name="margin_size_48dp">48dp</dimen>
+
+    <!--TEXT SIZE-->
+    <dimen name="text_size_10">10sp</dimen>
+    <dimen name="text_size_11">11sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_22">22sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_26">26sp</dimen>
+
+    <!--RADIUS SIZE-->
+    <dimen name="size_5">5dp</dimen>
+
+
+
+</resources>

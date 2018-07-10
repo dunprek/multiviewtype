@@ -1,0 +1,293 @@
+<resources>
+    <string name="app_name">PrinterQoe</string>
+    <string name="title_printer">List Printer</string>
+    <string name="title_map">Peta Printer</string>
+    <string name="title_other">Pesanan</string>
+    <string name="title_account">Menu</string>
+    <string name="title_sign_in">Masuk</string>
+    <string name="title_choose_document">Pilih Dokumen</string>
+    <string name="title_forgot_password">Lupa Kata Sandi</string>
+    <string name="title_order_detail">Detail Order</string>
+    <string name="title_add_printer">Daftarkan Printer Anda</string>
+    <string name="title_contact_us">Hubungi Kami</string>
+    <string name="title_contact_form">Formulir Kontak</string>
+    <string name="title_faq">Frequently Ask Questions</string>
+    <string name="title_about_us">About Us</string>
+    <string name="title_profile">Ubah Profil Anda</string>
+    <string name="title_merchant_page">Halaman Merchant</string>
+    <string name="title_order">Order</string>
+    <string name="title_change_password">Ubah Kata Sandi</string>
+
+
+    <string name="latitude_label">Latitude: %f</string>
+    <string name="longitude_label">Longitude: %f</string>
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+    <string name="permission_denied_explanation">
+        Permission was denied, but is needed for core functionality.
+    </string>
+    <string name="permission_rationale">
+        Location permission is needed for core functionality
+    </string>
+    <string name="settings">Settings</string>
+
+
+    //FACEBOOK APP
+    <string name="facebook_app_id">148019172546565</string>
+    <string name="fb_login_protocol_scheme">fb148019172546565</string>
+
+    <string name="alert_title">Error</string>
+    <string name="alert_close">Tutup</string>
+    <string name="alert_yes">Ya</string>
+    <string name="alert_no">Tidak</string>
+
+
+    <string name="search_hint">Ketik Lokasi Pencarian</string>
+    <string name="loading_data">Loading data</string>
+
+
+    <!--ONBOARDING ACTIVITY-->
+    <string name="header_one">Cetak</string>
+    <string name="header_two">Praktis</string>
+    <string name="header_three">Berkualitas</string>
+    <string name="detail_one">Cetak dokumen tanpa perlu antri dan menunggu lama.</string>
+    <string name="detail_two">Upload data yang ingin dicetak dengan mudah.</string>
+    <string name="detail_three">Hasil cetak berkualitas dan terjamin.</string>
+
+
+    <!--ONBOARDING-->
+    <string name="onBoarding_header_fast">Cepat</string>
+    <string name="onBoarding_header_practical">Praktis</string>
+    <string name="onBoarding_header_qualified">Berkualitas</string>
+    <string name="onBoarding_detail_fast">Cetak dokumen tanpa perlu antri dan menunggu lama.</string>
+    <string name="onBoarding_detail_practical">Upload data yang ingin dicetak dengan mudah.</string>
+    <string name="onBoarding_detail_qualified">Hasil cetak berkualitas dan terjamin.</string>
+
+
+    <!--ACTION-->
+    <string name="action_login">Masuk</string>
+    <string name="action_register">Daftar</string>
+    <string name="action_about_us">Tentang Kami</string>
+    <string name="action_privacy">Kebijakan Privasi</string>
+    <string name="action_terms_and_condition">Syarat dan Ketentuan</string>
+    <string name="action_forgot_password">Lupa kata Sandi</string>
+    <string name="action_faq">FAQ</string>
+    <string name="action_customer_support">Bantuan</string>
+    <string name="action_google">Google+</string>
+    <string name="action_facebook">Facebook</string>
+    <string name="action_linkedin">Linkedin</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_search">Search</string>
+    <string name="action_reset">Atur Ulang</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_lowest_black_white">Harga Hitam-Putih Terendah</string>
+    <string name="action_lowest_colored">Harga Berwarna Terendah</string>
+    <string name="action_highest_black_white">Harga Hitam-Putih Tertinggi</string>
+    <string name="action_highest_colored">Harga Berwarna Tertinggi</string>
+    <string name="action_list">Action List</string>
+    <string name="action_grid">Action Grid</string>
+    <string name="action_gps_on">Aktifkan GPS</string>
+    <string name="action_quit">Keluar</string>
+    <string name="action_direction">Petunjuk Arah</string>
+    <string name="action_order">Pesan</string>
+    <string name="action_change">Ubah</string>
+    <string name="action_orders">Pesanan</string>
+    <string name="action_attach">Lampirkan</string>
+    <string name="action_print">Cetak</string>
+    <string name="action_open_map">Lihat Peta</string>
+    <string name="action_futher_info">Info Selengkapnya</string>
+    <string name="action_choose_document">Pilih Dokumen</string>
+    <string name="action_email">Email</string>
+    <string name="action_phone">Telepon</string>
+    <string name="action_ok">ok</string>
+    <string name="action_cb_terms">CheckBoxTerm</string>
+    <string name="action_change_password">Ganti Kata Sandi</string>
+    <string name="action_register_your_printer">Daftarkan Printer Anda</string>
+    <string name="action_about_printerqoe">Tentang Printerqoe</string>
+    <string name="action_send">Kirim</string>
+    <string name="action_exit">Keluar</string>
+    <string name="action_merchant_page">Halaman Merchant</string>
+
+
+    <!--EDIT TEXT INPUT-->
+    <string name="input_name">Nama</string>
+    <string name="input_first_name">Nama Depan</string>
+    <string name="input_last_name">Nama Belakang</string>
+    <string name="input_gender">Jenis Kelamin</string>
+    <string name="input_dob">Tanggal Lahir</string>
+    <string name="input_merchant_name">Nama Merchant</string>
+    <string name="input_email">Email</string>
+    <string name="input_phone_number">Nomor Handphone</string>
+    <string name="input_description">Deskripsi</string>
+    <string name="input_password">Kata Sandi</string>
+    <string name="input_confirm_password">Konfirmasi Kata Sandi</string>
+    <string name="input_subject">Subjek</string>
+    <string name="input_message">Pesan</string>
+    <string name="input_province">Provinsi</string>
+    <string name="input_city">Kota</string>
+    <string name="input_district">Kecamatan</string>
+    <string name="input_village">Kelurahan</string>
+    <string name="input_postal_code">Kode Pos</string>
+    <string name="input_old_password">Kata Sandi Lama</string>
+    <string name="input_new_password">Kata Sandi Baru</string>
+    <string name="input_confirm_new_password">Konfirmasi Kata Sandi Baru</string>
+
+
+    <!--LABEL -->
+    <string name="label_price_per_page">Rp %1$s/halaman</string>
+    <string name="label_price_order_history">Rp %1$s</string>
+    <string name="label_total_page_and_copy">%1$s lembar, %2$s copy</string>
+    <string name="label_distance_and_address">%1$s km \u2022 %2$s</string>
+    <string name="label_category">Kategori</string>
+    <string name="label_change_order">Ubah Pesanan</string>
+    <string name="label_graphic_art">Graphic Art</string>
+    <string name="label_copy_center">Copy Center</string>
+    <string name="label_office_printer">Office Printer</string>
+    <string name="label_black_and_white">Hitam - Putih</string>
+    <string name="label_color">Warna</string>
+    <string name="label_size">Ukuran</string>
+    <string name="label_note">Catatan</string>
+    <string name="label_thank_you">Terima Kasih</string>
+    <string name="label_email_confirmation">Anda akan menerima email konfirmasi dari kami</string>
+    <string name="label_history_not_logged_in">Riwayat pemesanan Anda akan ditampilkan setelah melakukan pemesanan. Silahkan Masuk atau Daftar ke akun PrinterQoe terlebih dahulu</string>
+    <string name="label_register">Daftar</string>
+    <string name="label_order_pending">Pending</string>
+    <string name="label_order_ready">Ready</string>
+    <string name="label_order_completed">Completed</string>
+    <string name="label_order_canceled">Canceled</string>
+    <string name="label_info_file_name">Ofiskita.pdf</string>
+    <string name="label_info_file_hint">*Ekstensi file yang hanya .pdf dengan besar maksimum 20MB</string>
+    <string name="label_info_file_total_page">16</string>
+    <string name="label_info_file_price">48,000</string>
+    <string name="label_info_amount_copy">1</string>
+    <string name="label_info_order">Informasi Pesanan</string>
+    <string name="label_info_color">Pilihan Warna</string>
+    <string name="label_info_size">A4 70gr</string>
+    <string name="label_info_title_size">Ukuran</string>
+    <string name="label_info_note">Tambahan dengan jilid spiral</string>
+    <string name="label_document_name">Nama Document</string>
+    <string name="label_address">Jl. Mataram No. 15A</string>
+    <string name="label_user_address">Alamat</string>
+    <string name="label_title_address">Lokasi</string>
+    <string name="label_colored">Berwarna</string>
+    <string name="label_contact_merchant">Hubungi Merchant</string>
+    <string name="label_additional_facility">Fasilitas Tambahan</string>
+    <string name="label_price">Harga</string>
+    <string name="label_description">Deskripsi</string>
+    <string name="label_color_option">Pilih Warna</string>
+    <string name="label_document_size">Pilih Ukuran</string>
+    <string name="label_contact_form_name">Name</string>
+    <string name="label_menu_faq">FAQ</string>
+    <string name="label_menu_contact_us">Hubungi Kami</string>
+    <string name="label_transaction">Transaksi</string>
+    <string name="label_management">Manajemen</string>
+    <string name="label_merchant_additional_cost">Merchant Additional Cost</string>
+    <string name="label_printer">Printer</string>
+    <string name="label_order">Order</string>
+    <string name="label_dashboard">Dashboard</string>
+    <string name="label_list_transaction">Daftar Transaksi</string>
+    <string name="label_filter_transaction">Filter Transaksi</string>
+    <string name="label_order_number">Nomor Order</string>
+    <string name="label_printer_name">Nama Printer</string>
+    <string name="label_status">Status</string>
+    <string name="label_date">Tanggal</string>
+    <string name="label_dob">Tanggal Lahir</string>
+    <string name="label_name">Nama</string>
+    <string name="label_about_us">Tentang Kami</string>
+    <string name="label_privacy_policy">Kebijakan Privacy</string>
+    <string name="label_terms_and_condition">Syarat dan Ketentuan</string>
+    <string name="label_printer_amount">%s printer</string>
+    <string name="label_reason">Alasan</string>
+    <string name="label_dialog_title">Batalkan Pesanan</string>
+    <string name="label_dialog_message">Apakah Anda yakin ingin membatalkan pesanan?</string>
+    <string name="action_yes">Ya</string>
+    <string name="action_no">Tidak</string>
+
+
+    <string name="label_add_printer_header">Bergabung di PrinterQoe adalah cara terbaik mengembangkan jasa percetakan Anda secara online.\n\nSilakan mengisi form di bawah ini untuk mendaftarkan printer Anda dan kami akan segera menghubungi Anda.</string>
+    <string name="label_mock_printer_type">A4\-70gr</string>
+    <string name="label_6_char">\u0020\u0020\u0020\u0020\u0020\u0020</string>
+    <string name="label_10_char">\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020</string>
+    <string name="label_15_char">\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020</string>
+    <string name="label_25_char">\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\n
+                                \u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\n
+                                \u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020</string>
+
+
+    <string name="add_symbol"><![CDATA[<font color=\'#cc0029\'>&nbsp*</font>]]></string>
+    <string name="required_asterisk"><![CDATA[<font color=\'#cc0029\'>&nbsp*</font>]]></string>
+
+
+    <string name="text_disclaimer">Dengan mendaftar, saya menyetujui Syarat dan Ketentuan serta Kebijakan Privasi di PrinterQoe.</string>
+    <string name="text_option_register">Atau Daftar Menggunakan</string>
+    <string name="text_option_login">Atau Masuk Menggunakan</string>
+    <string name="text_amount_page">Jumlah Halaman</string>
+    <string name="text_amount_copy">Jumlah Copy</string>
+    <string name="text_total_price">Total Harga</string>
+    <string name="text_total_page">Total Halaman</string>
+    <string name="text_hint_choose_document">*Harga yang tercantum merupakan estimasi dan dapat berbeda dari harga sebenarnya\n
+                                                *Dengan Menekan tombol Pesan Anda mengkonfirmasi untuk melakukan upload dokumen dan melanjutkan ke proses cetak</string>
+
+
+    <string name="text_mock_price_per_page">Rp 500/halaman</string>
+    <string name="text_title_fb_no_email">Maaf</string>
+    <string name="text_description_fb_no_email">Anda tidak memiliki email terdaftar di Facebook</string>
+    <string name="text_google_failed_login">Gagal masuk dengan google</string>
+    <string name="text_input_email">Masukkan alamat email Anda yang terdaftar di PrinterQoe</string>
+    <string name="text_forgot_verified_title">Kami telah mengirimkan email ke Customer@printerqoe.com</string>
+    <string name="text_forgot_verified_description">Silahkan klik lampiran tautan pada email yang kami kirimkan untuk mengatur ulang kata sandi.</string>
+    <string name="text_contact_us_address_title">Alamat</string>
+    <string name="text_contact_us_phone_number">Telepon</string>
+    <string name="text_contact_us_email">Email</string>
+    <string name="text_already_registered">Sudah terdaftar?  </string>
+
+
+    <string name="btn_start_print">Mulai Cetak</string>
+
+
+    <!--HINT-->
+    <string name="hint_find_printer_or__merchant">Cari Lokasi printer atau merchant</string>
+
+
+    <!--STATUS-->
+    <string name="status_header_gps_off">GPS Belum Diaktifkan</string>
+    <string name="status_detail_gps_off">Mohon mengaktifkan GPS untuk memudahkan Anda mencari lokasi printer </string>
+
+
+    <!--GENDER LIST-->
+    <string-array name="list_gender">
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+
+
+    <!--COLOR LIST-->
+    <string-array name="list_size">
+        <item>Pilih Ukuran</item>
+        <item>A4 70gr</item>
+        <item>A4 80gr</item>
+    </string-array>
+
+
+    <string name="status_prompt">Pilih Status</string>
+
+    <string-array name="status_arrays">
+        <item>Pending</item>
+        <item>Ready</item>
+        <item>Completed</item>
+        <item>Canceled</item>
+    </string-array>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="todo">To do</string>
+    <string name="location">Permission Location</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="field_required">Harap isi semua data</string>
+    <string name="double_press_exit">Tekan sekali lagi untuk keluar aplikasi</string>
+
+
+</resources>
